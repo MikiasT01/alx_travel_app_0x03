@@ -1,0 +1,3 @@
+django
+celery
+redis  # Optional, but useful for testing; RabbitMQ doesn't require a Python package
